@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/junipernetworks.junos/commit/440c1dc9a617acca4676a5abf56a3779610a28e5",
       "git:hexsha": "440c1dc9a617acca4676a5abf56a3779610a28e5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/junipernetworks.junos/commit/1c2eba864f5efa8ca1635351df512cd23b16d53a",
